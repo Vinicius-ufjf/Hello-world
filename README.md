@@ -1,2 +1,5 @@
 # Hello-world
-aprendizado
+
+Hello, Humans!
+
+I'm also using GitHub...
